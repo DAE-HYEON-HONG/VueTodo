@@ -1,8 +1,8 @@
 # todo
 
-## Project setup
+## Vue.js Todo 만들기
 ```
-yarn install
+SPA
 ```
 
 ### Compiles and hot-reloads for development
